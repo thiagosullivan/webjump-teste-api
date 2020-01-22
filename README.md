@@ -60,6 +60,8 @@ npm start
 ## Como enviar seu teste
 - Envie um email para [carreira@webjump.com.br] com o link do seu repositório
 
+- Se o seu repositório for privado, conceda acesso de leitura ao email [codereview@webjump.com.br].
+
 ## API
 - Categorias: http://localhost:8888/api/V1/categories/list  
 O endpoint de categoria deve ser utilizado para montar o menu do cabeçalho.
