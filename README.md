@@ -8,6 +8,8 @@ O tempo necessário para completar o desafio dependerá da sua experiência e fe
 
 Portanto, dê o seu melhor!
 
+OBS: Os layouts podem ser encontrados na pasta **layout**
+
 ![Layout](assets/preview.jpg)
 
 ## Instruções
