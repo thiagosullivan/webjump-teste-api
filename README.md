@@ -62,7 +62,7 @@ npm start
 ## Como enviar seu teste
 - Envie um email para [carreira@webjump.com.br] com o link do seu repositório
 
-- Se o seu repositório for privado, conceda acesso de leitura ao email [codereview@webjump.com.br].
+- Se o seu repositório for privado, solicite os emails das pessoas responsáveis para conceder acesso de leitura ao seu repositório.
 
 ## API
 - Categorias: http://localhost:8888/api/V1/categories/list  
