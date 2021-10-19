@@ -8,7 +8,7 @@ O tempo necessário para completar o desafio dependerá da sua experiência e fe
 
 Portanto, dê o seu melhor!
 
-:warning: **OBS:** Os layouts podem ser encontrados na pasta **layout**
+:warning: **OBS:** Os layouts podem ser encontrados na pasta **layout** ou através do link: https://xd.adobe.com/view/bcf73053-f8e6-431c-9eb0-bf24304f6fff-e9a4/specs/
 
 ![Layout](assets/preview.jpg)
 
