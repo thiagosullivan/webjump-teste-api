@@ -60,7 +60,7 @@ npm start
 - Realize o desenvolvimento na pasta public
 
 ## Como enviar seu teste
-- Envie um email para [carreira@webjump.com.br] com o link do seu repositório
+- Envie um email para [pessoas@webjump.com.br] com o link do seu repositório
 
 - Se o seu repositório for privado, solicite os emails das pessoas responsáveis para conceder acesso de leitura ao seu repositório.
 
