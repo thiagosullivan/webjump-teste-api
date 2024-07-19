@@ -15,7 +15,7 @@
       "specialPrice": 29.9,
       "filter": [
         {
-          "gender": "Masculina"
+          "gender": "Masculino"
         }
       ]
     },
@@ -28,7 +28,7 @@
       "price": 24.15,
       "filter": [
           {
-            "gender": "Feminina"
+            "gender": "Feminino"
           }
       ]
     },
@@ -41,7 +41,7 @@
       "price": 61.49,
       "filter": [
           {
-            "gender": "Feminina"
+            "gender": "Feminino"
           }
       ]
     },
@@ -55,7 +55,7 @@
       "specialPrice": 58,
       "filter": [
         {
-          "gender": "Masculina"
+          "gender": "Masculino"
         }
       ]
     },
@@ -68,7 +68,7 @@
       "price": 70.0,
       "filter": [
         {
-          "gender": "Feminina"
+          "gender": "Feminino"
         }
       ]
     }
